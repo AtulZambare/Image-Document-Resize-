@@ -1,0 +1,8 @@
+{
+  "name": "Smart Image & Document Resizer",
+  "description": "Precision in-browser image and PDF compressor with target KB sizing, smart face detection, side-by-side comparison, and English/Marathi support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
